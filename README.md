@@ -66,8 +66,10 @@ vid_predict/
 
 🔧 Setup
 
-git clone https://github.com/your-username/vid_predict.git
-cd vid_predict
+git clone https://github.com/your-username/AutoCon.git
+
+cd AutoCon
+
 pip install -r requirements.txt
 
 ▶️ Run Locally
